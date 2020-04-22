@@ -484,6 +484,90 @@
 
 10. Java常用工具之<font color=red>集合</font>
 
-    
+    ![1587033023515](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1587033023515.png)
+
+    ![1587033099055](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1587033099055.png)
+
+    什么是集合？
+
+    常用集合
+
+    > List
+    >
+    > Set
+    >
+    > Map
+
+    根据`API`文档使用步骤查找集合类
+
+    > 查找集合类
+    >
+    > 查看该集合所属接口名
+    >
+    > 查看构造方法
+    >
+    > **创建集合对象**
+    >
+    > **创建元素对象**
+    >
+    > **添加元素到集合中**
+    >
+    > **遍历集合**
+
+    代码
+
+    > 记住集合体系中各接口集合的特点
+    >
+    > 练习集合的基本操作
+
+    集合简介
+
+    - [ ] 集合和数组的区别：
+
+      > 元素类型：
+      >
+      > ​	集合：引用类型（存储基本类型时自动装箱）
+      >
+      > ​    数组：基本类型、引用类型
+      >
+      > 元素个数：
+      >
+      > ​    集合：不固定
+      >
+      > ​    数组：固定
+      >
+      > 集合的好处：不收容器大小限制。
+
+      Java 集合的体系结构
+
+      > 单列集合:
+      >
+      > ​	Collection：
+      >
+      > ​         List ( 接口 ) : `ArrayList` （子类）
+      >
+      > ​	     Set ( 接口 ): `HashSet`  （子类）
+      >
+      > 双列集合：
+      >
+      > ​	Map ( 接口 ): `HashMap`
+
+    - [ ] List 集合的特点和应用
+
+      > 特点：可重复、有序（存取顺序相同）
+      >
+      > 应用：`List list = new ArrayList( ) ;`
+      >
+      > 
+
+    - [ ] 增强`for` 循环和迭代器
+
+    - [ ] 泛型简介
+
+    - [ ] Collections 工具类
+
+    - [ ] Set 集合的特点
+
+    - [ ] Map 集合的特点和应用
 
 11. Java常用工具之<font color=red>`IO`流</font>
