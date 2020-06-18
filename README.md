@@ -19,6 +19,17 @@ oney for yu
 
 ---
 
+不知道该做什么事
+
+1. leetcode
+2. java
+3. 写论文
+4. 矩阵论
+5. 线性代数
+6. 408
+
+---
+
 #### 简单使用`github`
 
 1. create  a new repository
