@@ -20,6 +20,10 @@ Experiments show that, as compared with the LSTM baseline, the proposed attentio
 
 (STOI). More promisingly, the attention-based approach has better generalization ability to unseen noise conditions.
 
+
+
+2020_05_05_rt_conv1d_total_musan_32
+
 #### 模型结构
 
 - 系统总览

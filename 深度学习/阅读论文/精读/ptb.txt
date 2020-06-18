@@ -1,0 +1,218 @@
+start
+| epoch   4 |   200/ 1029 batches | lr 2.00000 | ms/batch 283.28 | loss 1.237 | bpc 1.785
+| epoch   1 |   100/ 1029 batches | lr 2.00000 | ms/batch 410.64 | loss 1.391 | bpc 2.007
+| epoch   4 |   300/ 1029 batches | lr 2.00000 | ms/batch 282.11 | loss 1.214 | bpc 1.751
+| epoch   4 |   400/ 1029 batches | lr 2.00000 | ms/batch 282.61 | loss 1.206 | bpc 1.740
+| epoch   1 |   200/ 1029 batches | lr 2.00000 | ms/batch 410.46 | loss 0.015 | bpc 0.022
+| epoch   4 |   500/ 1029 batches | lr 2.00000 | ms/batch 282.42 | loss 1.210 | bpc 1.746
+| epoch   1 |   300/ 1029 batches | lr 2.00000 | ms/batch 412.88 | loss 0.012 | bpc 0.017
+| epoch   4 |   600/ 1029 batches | lr 2.00000 | ms/batch 282.29 | loss 1.206 | bpc 1.740
+| epoch   4 |   700/ 1029 batches | lr 2.00000 | ms/batch 282.25 | loss 1.194 | bpc 1.723
+| epoch   1 |   400/ 1029 batches | lr 2.00000 | ms/batch 413.69 | loss 0.011 | bpc 0.015
+| epoch   4 |   800/ 1029 batches | lr 2.00000 | ms/batch 282.11 | loss 1.200 | bpc 1.732
+| epoch   1 |   500/ 1029 batches | lr 2.00000 | ms/batch 411.88 | loss 0.010 | bpc 0.015
+| epoch   4 |   900/ 1029 batches | lr 2.00000 | ms/batch 282.60 | loss 1.190 | bpc 1.717
+| epoch   4 |  1000/ 1029 batches | lr 2.00000 | ms/batch 282.59 | loss 1.175 | bpc 1.695
+| epoch   1 |   600/ 1029 batches | lr 2.00000 | ms/batch 413.86 | loss 0.009 | bpc 0.013
+-----------------------------------------------------------------------------------------
+| End of epoch   4 | valid loss 1.144 | valid bpc    1.651
+=========================================================================================
+| End of epoch   4 | test loss 1.114 | test bpc    1.608
+=========================================================================================
+| epoch   1 |   700/ 1029 batches | lr 2.00000 | ms/batch 415.64 | loss 0.009 | bpc 0.013
+| epoch   5 |   100/ 1029 batches | lr 2.00000 | ms/batch 285.47 | loss 1.191 | bpc 1.719
+| epoch   5 |   200/ 1029 batches | lr 2.00000 | ms/batch 283.78 | loss 1.178 | bpc 1.700
+| epoch   1 |   800/ 1029 batches | lr 2.00000 | ms/batch 414.12 | loss 0.009 | bpc 0.012
+| epoch   5 |   300/ 1029 batches | lr 2.00000 | ms/batch 283.61 | loss 1.156 | bpc 1.668
+| epoch   1 |   900/ 1029 batches | lr 2.00000 | ms/batch 415.20 | loss 0.008 | bpc 0.011
+| epoch   5 |   400/ 1029 batches | lr 2.00000 | ms/batch 283.86 | loss 1.150 | bpc 1.660
+| epoch   1 |  1000/ 1029 batches | lr 2.00000 | ms/batch 415.84 | loss 0.008 | bpc 0.011
+| epoch   5 |   500/ 1029 batches | lr 2.00000 | ms/batch 283.05 | loss 1.155 | bpc 1.666
+| epoch   5 |   600/ 1029 batches | lr 2.00000 | ms/batch 282.12 | loss 1.154 | bpc 1.664
+-----------------------------------------------------------------------------------------
+| End of epoch   1 | valid loss 0.007 | valid bpc    0.010
+=========================================================================================
+| End of epoch   1 | test loss 0.007 | test bpc    0.011
+=========================================================================================
+| epoch   5 |   700/ 1029 batches | lr 2.00000 | ms/batch 283.37 | loss 1.145 | bpc 1.652
+| epoch   5 |   800/ 1029 batches | lr 2.00000 | ms/batch 282.95 | loss 1.152 | bpc 1.662
+| epoch   2 |   100/ 1029 batches | lr 2.00000 | ms/batch 415.49 | loss 0.007 | bpc 0.011
+| epoch   2 |   200/ 1029 batches | lr 2.00000 | ms/batch 419.89 | loss 0.007 | bpc 0.010
+| epoch   2 |   300/ 1029 batches | lr 2.00000 | ms/batch 418.02 | loss 0.007 | bpc 0.010
+| epoch   2 |   400/ 1029 batches | lr 2.00000 | ms/batch 417.78 | loss 0.006 | bpc 0.009
+| epoch   2 |   500/ 1029 batches | lr 2.00000 | ms/batch 416.44 | loss 0.007 | bpc 0.010
+| epoch   2 |   600/ 1029 batches | lr 2.00000 | ms/batch 416.49 | loss 0.006 | bpc 0.009
+| epoch   2 |   700/ 1029 batches | lr 2.00000 | ms/batch 416.39 | loss 0.007 | bpc 0.009
+| epoch   2 |   800/ 1029 batches | lr 2.00000 | ms/batch 415.70 | loss 0.007 | bpc 0.010
+| epoch   2 |   900/ 1029 batches | lr 2.00000 | ms/batch 414.25 | loss 0.006 | bpc 0.009
+| epoch   2 |  1000/ 1029 batches | lr 2.00000 | ms/batch 413.60 | loss 0.006 | bpc 0.009
+-----------------------------------------------------------------------------------------
+| End of epoch   2 | valid loss 0.006 | valid bpc    0.009
+=========================================================================================
+| End of epoch   2 | test loss 0.007 | test bpc    0.009
+=========================================================================================
+| epoch   3 |   100/ 1029 batches | lr 2.00000 | ms/batch 414.66 | loss 0.006 | bpc 0.009
+| epoch   3 |   200/ 1029 batches | lr 2.00000 | ms/batch 415.35 | loss 0.006 | bpc 0.009
+| epoch   3 |   300/ 1029 batches | lr 2.00000 | ms/batch 415.36 | loss 0.006 | bpc 0.008
+| epoch   3 |   400/ 1029 batches | lr 2.00000 | ms/batch 415.01 | loss 0.006 | bpc 0.008
+| epoch   3 |   500/ 1029 batches | lr 2.00000 | ms/batch 416.01 | loss 0.006 | bpc 0.008
+| epoch   3 |   600/ 1029 batches | lr 2.00000 | ms/batch 414.18 | loss 0.006 | bpc 0.008
+| epoch   3 |   700/ 1029 batches | lr 2.00000 | ms/batch 416.81 | loss 0.006 | bpc 0.008
+| epoch   3 |   800/ 1029 batches | lr 2.00000 | ms/batch 413.59 | loss 0.006 | bpc 0.008
+| epoch   3 |   900/ 1029 batches | lr 2.00000 | ms/batch 414.89 | loss 0.006 | bpc 0.008
+| epoch   3 |  1000/ 1029 batches | lr 2.00000 | ms/batch 414.98 | loss 0.006 | bpc 0.008
+-----------------------------------------------------------------------------------------
+| End of epoch   3 | valid loss 0.006 | valid bpc    0.009
+=========================================================================================
+| End of epoch   3 | test loss 0.007 | test bpc    0.009
+=========================================================================================
+| epoch   4 |   100/ 1029 batches | lr 2.00000 | ms/batch 414.66 | loss 0.005 | bpc 0.008
+| epoch   4 |   200/ 1029 batches | lr 2.00000 | ms/batch 415.02 | loss 0.006 | bpc 0.008
+| epoch   4 |   300/ 1029 batches | lr 2.00000 | ms/batch 416.39 | loss 0.005 | bpc 0.007
+| epoch   4 |   400/ 1029 batches | lr 2.00000 | ms/batch 415.70 | loss 0.005 | bpc 0.007
+| epoch   4 |   500/ 1029 batches | lr 2.00000 | ms/batch 416.86 | loss 0.005 | bpc 0.007
+| epoch   4 |   600/ 1029 batches | lr 2.00000 | ms/batch 414.30 | loss 0.005 | bpc 0.007
+| epoch   4 |   700/ 1029 batches | lr 2.00000 | ms/batch 414.53 | loss 0.005 | bpc 0.007
+| epoch   4 |   800/ 1029 batches | lr 2.00000 | ms/batch 416.76 | loss 0.005 | bpc 0.008
+| epoch   4 |   900/ 1029 batches | lr 2.00000 | ms/batch 413.85 | loss 0.005 | bpc 0.007
+| epoch   4 |  1000/ 1029 batches | lr 2.00000 | ms/batch 414.48 | loss 0.005 | bpc 0.007
+-----------------------------------------------------------------------------------------
+| End of epoch   4 | valid loss 0.006 | valid bpc    0.009
+=========================================================================================
+| End of epoch   4 | test loss 0.006 | test bpc    0.009
+=========================================================================================
+| epoch   5 |   100/ 1029 batches | lr 2.00000 | ms/batch 415.82 | loss 0.005 | bpc 0.007
+| epoch   5 |   200/ 1029 batches | lr 2.00000 | ms/batch 414.21 | loss 0.005 | bpc 0.007
+| epoch   5 |   300/ 1029 batches | lr 2.00000 | ms/batch 418.51 | loss 0.005 | bpc 0.007
+| epoch   5 |   400/ 1029 batches | lr 2.00000 | ms/batch 415.55 | loss 0.004 | bpc 0.006
+| epoch   5 |   500/ 1029 batches | lr 2.00000 | ms/batch 416.91 | loss 0.005 | bpc 0.007
+| epoch   5 |   600/ 1029 batches | lr 2.00000 | ms/batch 417.15 | loss 0.005 | bpc 0.007
+| epoch   5 |   700/ 1029 batches | lr 2.00000 | ms/batch 415.13 | loss 0.005 | bpc 0.007
+| epoch   5 |   800/ 1029 batches | lr 2.00000 | ms/batch 415.70 | loss 0.005 | bpc 0.007
+| epoch   5 |   900/ 1029 batches | lr 2.00000 | ms/batch 415.88 | loss 0.005 | bpc 0.007
+| epoch   5 |  1000/ 1029 batches | lr 2.00000 | ms/batch 415.14 | loss 0.005 | bpc 0.007
+-----------------------------------------------------------------------------------------
+| End of epoch   5 | valid loss 0.006 | valid bpc    0.009
+=========================================================================================
+| End of epoch   5 | test loss 0.007 | test bpc    0.009
+=========================================================================================
+| epoch   6 |   100/ 1029 batches | lr 2.00000 | ms/batch 415.91 | loss 0.004 | bpc 0.006
+| epoch   6 |   200/ 1029 batches | lr 2.00000 | ms/batch 415.82 | loss 0.005 | bpc 0.007
+| epoch   6 |   300/ 1029 batches | lr 2.00000 | ms/batch 416.77 | loss 0.004 | bpc 0.006
+| epoch   6 |   400/ 1029 batches | lr 2.00000 | ms/batch 417.88 | loss 0.004 | bpc 0.006
+| epoch   6 |   500/ 1029 batches | lr 2.00000 | ms/batch 418.33 | loss 0.004 | bpc 0.006
+| epoch   6 |   600/ 1029 batches | lr 2.00000 | ms/batch 415.36 | loss 0.004 | bpc 0.006
+| epoch   6 |   700/ 1029 batches | lr 2.00000 | ms/batch 416.67 | loss 0.004 | bpc 0.006
+| epoch   6 |   800/ 1029 batches | lr 2.00000 | ms/batch 416.49 | loss 0.004 | bpc 0.006
+| epoch   6 |   900/ 1029 batches | lr 2.00000 | ms/batch 414.23 | loss 0.004 | bpc 0.006
+| epoch   6 |  1000/ 1029 batches | lr 2.00000 | ms/batch 414.98 | loss 0.004 | bpc 0.006
+-----------------------------------------------------------------------------------------
+| End of epoch   6 | valid loss 0.006 | valid bpc    0.009
+=========================================================================================
+| End of epoch   6 | test loss 0.007 | test bpc    0.010
+=========================================================================================
+| epoch   7 |   100/ 1029 batches | lr 0.20000 | ms/batch 414.58 | loss 0.004 | bpc 0.006
+| epoch   7 |   200/ 1029 batches | lr 0.20000 | ms/batch 415.30 | loss 0.004 | bpc 0.006
+| epoch   7 |   300/ 1029 batches | lr 0.20000 | ms/batch 417.04 | loss 0.004 | bpc 0.005
+| epoch   7 |   400/ 1029 batches | lr 0.20000 | ms/batch 417.95 | loss 0.003 | bpc 0.005
+| epoch   7 |   500/ 1029 batches | lr 0.20000 | ms/batch 416.80 | loss 0.003 | bpc 0.005
+| epoch   7 |   600/ 1029 batches | lr 0.20000 | ms/batch 416.94 | loss 0.003 | bpc 0.005
+| epoch   7 |   700/ 1029 batches | lr 0.20000 | ms/batch 415.19 | loss 0.003 | bpc 0.005
+| epoch   7 |   800/ 1029 batches | lr 0.20000 | ms/batch 416.89 | loss 0.003 | bpc 0.005
+| epoch   7 |   900/ 1029 batches | lr 0.20000 | ms/batch 416.07 | loss 0.003 | bpc 0.004
+| epoch   7 |  1000/ 1029 batches | lr 0.20000 | ms/batch 416.51 | loss 0.003 | bpc 0.004
+-----------------------------------------------------------------------------------------
+| End of epoch   7 | valid loss 0.006 | valid bpc    0.008
+=========================================================================================
+| End of epoch   7 | test loss 0.006 | test bpc    0.009
+=========================================================================================
+| epoch   8 |   100/ 1029 batches | lr 0.20000 | ms/batch 414.73 | loss 0.004 | bpc 0.005
+| epoch   8 |   200/ 1029 batches | lr 0.20000 | ms/batch 417.32 | loss 0.004 | bpc 0.005
+| epoch   8 |   300/ 1029 batches | lr 0.20000 | ms/batch 417.01 | loss 0.003 | bpc 0.005
+| epoch   8 |   400/ 1029 batches | lr 0.20000 | ms/batch 417.34 | loss 0.003 | bpc 0.005
+| epoch   8 |   500/ 1029 batches | lr 0.20000 | ms/batch 417.73 | loss 0.003 | bpc 0.005
+| epoch   8 |   600/ 1029 batches | lr 0.20000 | ms/batch 416.37 | loss 0.003 | bpc 0.004
+| epoch   8 |   700/ 1029 batches | lr 0.20000 | ms/batch 417.16 | loss 0.003 | bpc 0.005
+| epoch   8 |   800/ 1029 batches | lr 0.20000 | ms/batch 416.35 | loss 0.003 | bpc 0.004
+| epoch   8 |   900/ 1029 batches | lr 0.20000 | ms/batch 415.78 | loss 0.003 | bpc 0.004
+| epoch   8 |  1000/ 1029 batches | lr 0.20000 | ms/batch 417.06 | loss 0.003 | bpc 0.004
+-----------------------------------------------------------------------------------------
+| End of epoch   8 | valid loss 0.006 | valid bpc    0.008
+=========================================================================================
+| End of epoch   8 | test loss 0.006 | test bpc    0.009
+=========================================================================================
+| epoch   9 |   100/ 1029 batches | lr 0.20000 | ms/batch 417.60 | loss 0.003 | bpc 0.005
+| epoch   9 |   200/ 1029 batches | lr 0.20000 | ms/batch 415.63 | loss 0.004 | bpc 0.005
+| epoch   9 |   300/ 1029 batches | lr 0.20000 | ms/batch 417.18 | loss 0.003 | bpc 0.005
+| epoch   9 |   400/ 1029 batches | lr 0.20000 | ms/batch 417.73 | loss 0.003 | bpc 0.004
+| epoch   9 |   500/ 1029 batches | lr 0.20000 | ms/batch 416.85 | loss 0.003 | bpc 0.004
+| epoch   9 |   600/ 1029 batches | lr 0.20000 | ms/batch 416.50 | loss 0.003 | bpc 0.004
+| epoch   9 |   700/ 1029 batches | lr 0.20000 | ms/batch 416.70 | loss 0.003 | bpc 0.004
+| epoch   9 |   800/ 1029 batches | lr 0.20000 | ms/batch 417.02 | loss 0.003 | bpc 0.004
+| epoch   9 |   900/ 1029 batches | lr 0.20000 | ms/batch 417.10 | loss 0.003 | bpc 0.004
+| epoch   9 |  1000/ 1029 batches | lr 0.20000 | ms/batch 416.00 | loss 0.003 | bpc 0.004
+-----------------------------------------------------------------------------------------
+| End of epoch   9 | valid loss 0.006 | valid bpc    0.008
+=========================================================================================
+| End of epoch   9 | test loss 0.006 | test bpc    0.009
+=========================================================================================
+| epoch  10 |   100/ 1029 batches | lr 0.20000 | ms/batch 415.56 | loss 0.003 | bpc 0.005
+| epoch  10 |   200/ 1029 batches | lr 0.20000 | ms/batch 416.63 | loss 0.003 | bpc 0.005
+| epoch  10 |   300/ 1029 batches | lr 0.20000 | ms/batch 418.24 | loss 0.003 | bpc 0.004
+| epoch  10 |   400/ 1029 batches | lr 0.20000 | ms/batch 418.54 | loss 0.003 | bpc 0.004
+| epoch  10 |   500/ 1029 batches | lr 0.20000 | ms/batch 418.28 | loss 0.003 | bpc 0.004
+| epoch  10 |   600/ 1029 batches | lr 0.20000 | ms/batch 418.48 | loss 0.003 | bpc 0.004
+| epoch  10 |   700/ 1029 batches | lr 0.20000 | ms/batch 415.82 | loss 0.003 | bpc 0.004
+| epoch  10 |   800/ 1029 batches | lr 0.20000 | ms/batch 416.77 | loss 0.003 | bpc 0.004
+| epoch  10 |   900/ 1029 batches | lr 0.20000 | ms/batch 415.61 | loss 0.003 | bpc 0.004
+| epoch  10 |  1000/ 1029 batches | lr 0.20000 | ms/batch 419.70 | loss 0.003 | bpc 0.004
+-----------------------------------------------------------------------------------------
+| End of epoch  10 | valid loss 0.006 | valid bpc    0.008
+=========================================================================================
+| End of epoch  10 | test loss 0.006 | test bpc    0.009
+=========================================================================================
+| epoch  11 |   100/ 1029 batches | lr 0.02000 | ms/batch 416.32 | loss 0.003 | bpc 0.005
+| epoch  11 |   200/ 1029 batches | lr 0.02000 | ms/batch 419.46 | loss 0.003 | bpc 0.005
+| epoch  11 |   300/ 1029 batches | lr 0.02000 | ms/batch 417.06 | loss 0.003 | bpc 0.004
+| epoch  11 |   400/ 1029 batches | lr 0.02000 | ms/batch 418.61 | loss 0.003 | bpc 0.004
+| epoch  11 |   500/ 1029 batches | lr 0.02000 | ms/batch 417.76 | loss 0.003 | bpc 0.004
+| epoch  11 |   600/ 1029 batches | lr 0.02000 | ms/batch 417.64 | loss 0.003 | bpc 0.004
+| epoch  11 |   700/ 1029 batches | lr 0.02000 | ms/batch 418.40 | loss 0.003 | bpc 0.004
+| epoch  11 |   800/ 1029 batches | lr 0.02000 | ms/batch 416.96 | loss 0.003 | bpc 0.004
+| epoch  11 |   900/ 1029 batches | lr 0.02000 | ms/batch 418.14 | loss 0.003 | bpc 0.004
+| epoch  11 |  1000/ 1029 batches | lr 0.02000 | ms/batch 418.23 | loss 0.002 | bpc 0.003
+-----------------------------------------------------------------------------------------
+| End of epoch  11 | valid loss 0.006 | valid bpc    0.008
+=========================================================================================
+| End of epoch  11 | test loss 0.006 | test bpc    0.009
+=========================================================================================
+| epoch  12 |   100/ 1029 batches | lr 0.02000 | ms/batch 416.02 | loss 0.003 | bpc 0.005
+| epoch  12 |   200/ 1029 batches | lr 0.02000 | ms/batch 418.87 | loss 0.003 | bpc 0.005
+| epoch  12 |   300/ 1029 batches | lr 0.02000 | ms/batch 418.71 | loss 0.003 | bpc 0.004
+| epoch  12 |   400/ 1029 batches | lr 0.02000 | ms/batch 417.92 | loss 0.003 | bpc 0.004
+| epoch  12 |   500/ 1029 batches | lr 0.02000 | ms/batch 417.65 | loss 0.003 | bpc 0.004
+| epoch  12 |   600/ 1029 batches | lr 0.02000 | ms/batch 417.16 | loss 0.003 | bpc 0.004
+| epoch  12 |   700/ 1029 batches | lr 0.02000 | ms/batch 417.06 | loss 0.003 | bpc 0.004
+| epoch  12 |   800/ 1029 batches | lr 0.02000 | ms/batch 418.11 | loss 0.003 | bpc 0.004
+| epoch  12 |   900/ 1029 batches | lr 0.02000 | ms/batch 414.80 | loss 0.003 | bpc 0.004
+| epoch  12 |  1000/ 1029 batches | lr 0.02000 | ms/batch 417.80 | loss 0.002 | bpc 0.003
+-----------------------------------------------------------------------------------------
+| End of epoch  12 | valid loss 0.006 | valid bpc    0.008
+=========================================================================================
+| End of epoch  12 | test loss 0.006 | test bpc    0.009
+=========================================================================================
+| epoch  13 |   100/ 1029 batches | lr 0.02000 | ms/batch 415.97 | loss 0.003 | bpc 0.004
+| epoch  13 |   200/ 1029 batches | lr 0.02000 | ms/batch 418.21 | loss 0.003 | bpc 0.005
+| epoch  13 |   300/ 1029 batches | lr 0.02000 | ms/batch 418.64 | loss 0.003 | bpc 0.004
+| epoch  13 |   400/ 1029 batches | lr 0.02000 | ms/batch 418.22 | loss 0.003 | bpc 0.004
+| epoch  13 |   500/ 1029 batches | lr 0.02000 | ms/batch 419.70 | loss 0.003 | bpc 0.004
+| epoch  13 |   600/ 1029 batches | lr 0.02000 | ms/batch 417.09 | loss 0.003 | bpc 0.004
+| epoch  13 |   700/ 1029 batches | lr 0.02000 | ms/batch 418.93 | loss 0.003 | bpc 0.004
+| epoch  13 |   800/ 1029 batches | lr 0.02000 | ms/batch 419.13 | loss 0.003 | bpc 0.004
+| epoch  13 |   900/ 1029 batches | lr 0.02000 | ms/batch 419.43 | loss 0.003 | bpc 0.004
+| epoch  13 |  1000/ 1029 batches | lr 0.02000 | ms/batch 418.58 | loss 0.002 | bpc 0.003
+-----------------------------------------------------------------------------------------
+| End of epoch  13 | valid loss 0.006 | valid bpc    0.008
+=========================================================================================
+| End of epoch  13 | test loss 0.006 | test bpc    0.009
+=========================================================================================

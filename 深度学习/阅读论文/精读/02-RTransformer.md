@@ -23,6 +23,15 @@
   \end{aligned}
   $$
   
+  $$
+    \begin{aligned}
+    {\alpha_1,\alpha_2,\cdots,\alpha_n} &= Softmax({\frac{<q,k_1>}{\sqrt{(d_k)}},\frac{<q,k_2>}{\sqrt{(d_k)},\cdots,\frac{<q,k_n>}{\sqrt{(d_k)})\\
+    
+  \end{aligned}
+  $$
+  
+  
+  
 - `FeedForward`
   $$
   FeedForward(m_t)=max(0,u_tW_1+b_1)W_2+b_2
